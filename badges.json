@@ -31,9 +31,17 @@
 			"https://i.imgur.com/fVLEI9L.png", 
 			"https://i.imgur.com/pdTebwY.png"
 		]
+	}, {
+		"n": "Braindead Run",
+		"tooltip": "Test",
+		"urls": [
+			"https://i.imgur.com/2fA6mnf.gif", 
+			"https://i.imgur.com/ffe0RgR.gif", 
+			"https://i.imgur.com/pMt3Dje.gif"
+		]
 	}],
 	"users": [
-		["tehchy", [0, 1, 2]], 
+		["tehchy", [0, 1, 2, 4]], 
 		["imwaspy", [0, 1]], 
 		["lizswitch", [0]], 
 		["kaarson", [0]], 

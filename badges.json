@@ -55,17 +55,33 @@
 			"https://i.imgur.com/PFKsUdQ.gif", 
 			"https://i.imgur.com/Hr2forV.gif"
 		]
+	}, {
+		"n": "Final Boss",
+		"tooltip": "Test",
+		"urls": [
+			"https://i.imgur.com/0qLgjKk.png", 
+			"https://i.imgur.com/3FVDMYV.png", 
+			"https://i.imgur.com/0qLgjKk.png"
+		]
+	}, {
+		"n": "Alexis",
+		"tooltip": "Test",
+		"urls": [
+			"https://i.imgur.com/LxIMRxZ.png", 
+			"https://i.imgur.com/LyTyhrI.png", 
+			"https://i.imgur.com/948cYAQ.png"
+		]
 	}],
 	"users": [
-		["tehchy", [0, 1, 2, 3, 4, 5, 6]], 
+		["tehchy", [0, 1, 2, 3, 4, 5, 6, 7, 8]], 
 		["imwaspy", [0, 1, 5, 6]], 
 		["lizswitch", [0]], 
 		["kaarson", [0]], 
 		["heyimzed", [0]], 
-		["riotalexis", [0]], 
+		["riotalexis", [0, 8]], 
 		["teamcrisis", [0, 1]], 
 		["mommys", [0]], 
-		["visuaiscientist", [0]], 
+		["visuaiscientist", [0, 7]], 
 		["itsabsent", [0, 1, 2, 3]], 
 		["teds", [0]], 
 		["squanchy_rl", [0]], 

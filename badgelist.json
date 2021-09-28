@@ -1,0 +1,33 @@
+[{
+	"n": "Braindead Member",
+	"tooltip": "Test",
+	"urls": [
+		"https://static-cdn.jtvnw.net/badges/v1/d44c07f4-6910-4889-b5c5-b1f163ba9903/1", 
+		"https://static-cdn.jtvnw.net/badges/v1/d44c07f4-6910-4889-b5c5-b1f163ba9903/2", 
+		"https://static-cdn.jtvnw.net/badges/v1/d44c07f4-6910-4889-b5c5-b1f163ba9903/3"
+	]
+}, {
+	"n": "Krunker",
+	"tooltip": "Test",
+	"urls": [
+		"https://i.imgur.com/bZtXBt6.png", 
+		"https://i.imgur.com/ypq7tA1.png", 
+		"https://i.imgur.com/nCs4CDa.png"
+	]
+}, {
+	"n": "Tehchy Terminal",
+	"tooltip": "Test",
+	"urls": [
+		"https://i.imgur.com/eMGE7xs.png", 
+		"https://i.imgur.com/JtAcGGj.png", 
+		"https://i.imgur.com/X1WdweX.png"
+	]
+}, {
+	"n": "Absent",
+	"tooltip": "Test",
+	"urls": [
+		"https://i.imgur.com/bzkXG4n.png", 
+		"https://i.imgur.com/fVLEI9L.png", 
+		"https://i.imgur.com/pdTebwY.png"
+	]
+}]

@@ -39,10 +39,26 @@
 			"https://i.imgur.com/ffe0RgR.gif", 
 			"https://i.imgur.com/pMt3Dje.gif"
 		]
+	}, {
+		"n": "waspyPLS",
+		"tooltip": "Test",
+		"urls": [
+			"https://i.imgur.com/nXmQZvy.gif", 
+			"https://i.imgur.com/Jl7rjVj.gif", 
+			"https://i.imgur.com/xSGWfrk.gif"
+		]
+	}, {
+		"n": "waspyNODDERS",
+		"tooltip": "Test",
+		"urls": [
+			"https://i.imgur.com/sCSumUd.gif", 
+			"https://i.imgur.com/PFKsUdQ.gif", 
+			"https://i.imgur.com/Hr2forV.gif"
+		]
 	}],
 	"users": [
 		["tehchy", [0, 1, 2, 4]], 
-		["imwaspy", [0, 1]], 
+		["imwaspy", [0, 1, 5, 6]], 
 		["lizswitch", [0]], 
 		["kaarson", [0]], 
 		["heyimzed", [0]], 

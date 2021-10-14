@@ -1,0 +1,15 @@
+{
+	"list": [{
+		"n": "Verb Member",
+		"tooltip": "Verb's Logo",
+		"urls": [
+			"https://i.imgur.com/en9Ubr4.png", 
+			"https://i.imgur.com/EYmFGPR.png", 
+			"https://i.imgur.com/fpF47tf.png"
+		]
+	}],
+	"users": [
+		["tehchy", [0]], 
+		["quacky", [0]]
+	]
+}
